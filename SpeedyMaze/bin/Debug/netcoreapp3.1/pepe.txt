@@ -1,0 +1,6 @@
+Level 1
+Objetos: 1
+Tiempo: 54
+Vidas: 3
+Pos: 10 4
+Dir: 2
